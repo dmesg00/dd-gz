@@ -27,7 +27,7 @@ dd-gz restore /home/backup/sdc-backup.gz /dev/sdc
 ## How to install:
 
 ```
-git clone https://github.com/asdo92/dd-gz
+git clone https://github.com/dmesg00/dd-gz
 cd dd-gz
 sudo make install 
 ```
@@ -35,7 +35,7 @@ sudo make install
 ## How to uninstall:
 
 ```
-git clone https://github.com/asdo92/dd-gz
+git clone https://github.com/dmesg00/dd-gz
 cd dd-gz
 sudo make uninstall 
 ```
